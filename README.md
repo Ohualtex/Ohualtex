@@ -39,7 +39,8 @@ As a Software Engineering student at Fırat University, I am dedicated to evolvi
 
 ### 📈 GitHub Stats
 
-![Ohualtex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohualtex&show_icons=true&theme=radium)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohualtex&layout=compact&theme=radium)
+
 
 ---
 
