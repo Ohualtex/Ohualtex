@@ -39,7 +39,7 @@ As a Software Engineering student at Fırat University, I am dedicated to evolvi
 
 ### 📈 GitHub Stats
 
-![Miyamura's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)
+![Ohualtex's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium)
 
 ---
 
