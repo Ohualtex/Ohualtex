@@ -49,4 +49,3 @@ As a Software Engineering student at Fırat University, I am dedicated to evolvi
 If you want to discuss cybersecurity, game development, or potential collaborations, feel free to reach out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mirac-duran)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:mduran2341@gmail.com)
