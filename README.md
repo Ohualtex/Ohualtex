@@ -6,21 +6,36 @@
 
 <img width="100%" src="./assets/header.svg" alt="hi, I'm Ohualtex"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/github-contribution-grid-snake.svg" />
+  <img width="100%" alt="snake" src="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 </div>
 
 <br/>
 
 > *“In the modern digital landscape, security is a fundamental necessity, not an option.”*
 
-As a Software Engineering student at Fırat University, I am dedicated to evolving into a high-level security expert. My professional interest lies at the intersection of **Cybersecurity** and **Game Development**. I focus on bridging the gap between immersive digital experiences and robust, secure infrastructures by prioritizing secure software architecture in every project.
+As a Software Engineering student at Fırat University, I am dedicated to growing into a security-focused software engineer. My professional interest lies at the intersection of **Cybersecurity** and **Game Development**. I focus on bridging the gap between immersive digital experiences and robust, secure infrastructures by prioritizing secure software architecture in every project.
 
 ---
 
 ### 🛡️ Core Competencies & Philosophy
 
-* **Defensive & Offensive Security:** Deepening expertise in Network Security, Penetration Testing (Pentest), and Malware Analysis within Kali Linux environments.
+* **Defensive & Offensive Security:** Building hands-on skills in Network Security, Penetration Testing (Pentest), and Malware Analysis within Kali Linux environments.
 * **Secure Design:** Ensuring that the foundation of every line of code, whether for a game or an application, is built with a security-first mindset.
 * **Creative Engineering:** Leveraging industry-standard tools to build high-quality digital assets and immersive environments.
+
+---
+
+### 🚀 What I'm Currently Working On
+
+- 🔭 **Building:** Java-based automation tools and exploring secure logic implementation.
+- 🌱 **Learning:** Advanced network configurations, server management, and sectoral defense methodologies.
+- 🤝 **Looking to collaborate on:** Open-source cybersecurity tools, secure game design projects, and interactive digital media.
+- 💬 **Ask me about:** Setting up secure environments, game asset creation, and secure coding practices.
 
 ---
 
@@ -77,42 +92,19 @@ As a Software Engineering student at Fırat University, I am dedicated to evolvi
 
 ---
 
-### 🚀 What I'm Currently Working On
-
-- 🔭 **Building:** Java-based automation tools and exploring secure logic implementation.
-- 🌱 **Learning:** Advanced network configurations, server management, and sectoral defense methodologies.
-- 👯 **Looking to collaborate on:** Open-source cybersecurity tools, secure game design projects, and interactive digital media.
-- 💬 **Ask me about:** Setting up secure environments, game asset creation, and secure coding practices.
-
----
-
 ### 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ohualtex&hide_border=true&theme=tokyonight" alt="streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ohualtex&theme=tokyonight" alt="github stats" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ohualtex&theme=tokyonight" alt="most used languages" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ohualtex&theme=tokyonight" alt="most used languages" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ohualtex&theme=tokyonight" alt="most commit language" />
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ohualtex&theme=tokyonight" alt="most commit language" />
 
-<br/><br/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ohualtex&theme=tokyonight" alt="github stats" />
+&nbsp;
+<img height="180" src="https://streak-stats.demolab.com/?user=Ohualtex&hide_border=true&theme=tokyonight" alt="streak" />
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ohualtex&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/github-contribution-grid-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/github-contribution-grid-snake-dark.svg" />
-</picture>
 
 </div>
 
@@ -122,7 +114,7 @@ As a Software Engineering student at Fırat University, I am dedicated to evolvi
 
 If you want to discuss cybersecurity, game development, or potential collaborations, feel free to reach out:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mirac-duran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirac-duran)
 
 <div align="center">
 
