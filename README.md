@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,40:565f89,100:7aa2f7&height=200&section=header&text=hi,%20I'm%20Ohualtex%20%E2%9C%A6&fontSize=44&fontColor=c0caf5&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20%7C%20Cybersecurity%20%26%20Secure%20Architecture&descAlignY=62&descSize=16&descColor=a9b1d6" alt="header"/>
+<img width="100%" src="./assets/header.svg" alt="hi, I'm Ohualtex"/>
 
 <br/>
 
@@ -114,6 +114,6 @@ If you want to discuss cybersecurity, game development, or potential collaborati
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,60:565f89,100:1a1b27&height=120&section=footer" alt="footer"/>
+<img width="100%" src="./assets/footer.svg" alt="footer"/>
 
 </div>

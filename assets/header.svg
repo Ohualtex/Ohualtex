@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-label="hi, I'm Ohualtex">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="60%" stop-color="#24283b"/>
+      <stop offset="100%" stop-color="#3b4261"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="50%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#7dcfff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="250" fill="url(#bg)"/>
+  <path d="M0,185 C180,225 360,150 600,180 C840,210 1020,150 1200,188 L1200,250 L0,250 Z" fill="#7aa2f7" opacity="0.16"/>
+  <path d="M0,205 C200,170 420,235 640,202 C860,170 1030,228 1200,202 L1200,250 L0,250 Z" fill="#bb9af7" opacity="0.12"/>
+  <text x="600" y="110" text-anchor="middle" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="48" font-weight="700" fill="#c0caf5">hi, I'm Ohualtex &#10022;</text>
+  <text x="600" y="154" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" letter-spacing="1" fill="#a9b1d6">Software Engineering &#183; Cybersecurity &amp; Secure Architecture</text>
+  <rect x="505" y="172" width="190" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
