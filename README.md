@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,40:565f89,100:7aa2f7&height=200&section=header&text=hi,%20I'm%20Ohualtex%20%F0%9F%91%8B&fontSize=44&fontColor=c0caf5&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20%7C%20Cybersecurity%20%26%20Secure%20Architecture&descAlignY=62&descSize=16&descColor=a9b1d6" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,40:565f89,100:7aa2f7&height=200&section=header&text=hi,%20I'm%20Ohualtex%20%E2%9C%A6&fontSize=44&fontColor=c0caf5&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20%7C%20Cybersecurity%20%26%20Secure%20Architecture&descAlignY=62&descSize=16&descColor=a9b1d6" alt="header"/>
 
 <br/>
 
@@ -15,10 +15,6 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=Ohualtex&label=visitors&color=7aa2f7&style=flat" alt="profile views" />
-&nbsp;
-<a href="https://github.com/Ohualtex?tab=followers">
-  <img src="https://img.shields.io/github/followers/Ohualtex?label=followers&style=flat&color=bb9af7&labelColor=1a1b27" alt="followers" />
-</a>
 
 </div>
 
@@ -82,13 +78,17 @@ As a Software Engineering student at Fırat University, I am dedicated to evolvi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ohualtex&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats" />
-&nbsp;
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Ohualtex&hide_border=true&theme=tokyonight" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ohualtex&hide_border=true&theme=tokyonight" alt="streak" />
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohualtex&layout=compact&hide_border=true&theme=tokyonight" alt="top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ohualtex&theme=tokyonight" alt="github stats" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ohualtex&theme=tokyonight" alt="most used languages" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ohualtex&theme=tokyonight" alt="most commit language" />
 
 <br/><br/>
 

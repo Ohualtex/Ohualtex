@@ -6,10 +6,11 @@ on:
     - cron: "0 */12 * * *"
   # Allow manual runs from the Actions tab
   workflow_dispatch:
-  # Run on every push to main
+  # Run on every push to main (and the rewrite branch, to generate the snake early)
   push:
     branches:
       - main
+      - rewrite_v1
 
 jobs:
   generate:
