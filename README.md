@@ -6,16 +6,6 @@
 
 <img width="100%" src="./assets/header.svg" alt="hi, I'm Ohualtex"/>
 
-<br/>
-
-<a href="https://github.com/Ohualtex">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&height=42&lines=Software+Engineering+student+%40+F%C4%B1rat+University;Cybersecurity+%26+Secure+Architecture;Game+developer+in+the+making;security-first%2C+always" alt="typing" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Ohualtex&label=visitors&color=7aa2f7&style=flat" alt="profile views" />
-
 </div>
 
 <br/>
