@@ -96,13 +96,17 @@ As a Software Engineering student at Fırat University, I am dedicated to growin
 
 <div align="center">
 
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ohualtex&theme=tokyonight" alt="most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ohualtex&theme=tokyonight" alt="most used languages" />
 &nbsp;
-<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ohualtex&theme=tokyonight" alt="most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ohualtex&theme=tokyonight" alt="most commit language" />
+
+<br/>
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ohualtex&theme=tokyonight" alt="github stats" />
 &nbsp;
 <img height="180" src="https://streak-stats.demolab.com/?user=Ohualtex&hide_border=true&theme=tokyonight" alt="streak" />
+
+<br/>
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ohualtex&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 
