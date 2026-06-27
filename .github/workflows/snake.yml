@@ -1,7 +1,7 @@
 name: Generate Contribution Snake
 
 on:
-  # Run every 12 hours
+  # Run every 4 hours
   schedule:
     - cron: "0 */4 * * *"
   # Allow manual runs from the Actions tab
