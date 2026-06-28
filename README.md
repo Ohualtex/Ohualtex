@@ -16,28 +16,28 @@
 
 <br/>
 
-> *“I'd rather range across domains than lock myself into one — building with a security mindset along the way.”*
+> *“I'd rather range across domains than lock myself into one, building with a security mindset along the way.”*
 
-I'm a Software Engineering student at Fırat University and a **multidisciplinary developer** — I build across **AI**, **systems**, and the **web**, with roots in **game development**. I carry a security-minded perspective into everything I make, but I'd rather range across domains than box myself into a single one.
+I'm a Software Engineering student at Fırat University and a **multidisciplinary developer** who builds across **AI**, **systems**, and the **web**, with roots in **game development**. I carry a security-minded perspective into everything I make, but I'd rather range across domains than box myself into a single one.
 
 <div align="center"><img src="./assets/divider.svg" width="70%" height="4" alt="" /></div>
 
 ### 🧭 What I Work On
 
-- 🤖 **AI** — building and experimenting with LLMs and AI-assisted tooling.
-- 🖥️ **Systems** — Linux environments, automation, and server-side work.
-- 🌐 **Web** — building on the web, front to back.
-- 🎮 **Game Development** — crafting worlds and tools with Unity, Blender & Krita.
-- 🛡️ **Security** — a lens I bring to everything above, not a silo I sit in.
+- 🤖 **AI:** building and experimenting with LLMs and AI-assisted tooling.
+- 🖥️ **Systems:** Linux environments, automation, and server-side work.
+- 🌐 **Web:** building on the web, front to back.
+- 🎮 **Game Development:** crafting worlds and tools with Unity, Blender & Krita.
+- 🛡️ **Security:** a lens I bring to everything above, not a silo I sit in.
 
 <div align="center"><img src="./assets/divider.svg" width="70%" height="4" alt="" /></div>
 
 ### 🚀 What I'm Currently Working On
 
-- 🔭 **Building:** local-first AI agents and developer tooling — small, skill-based assistants that run on your own machine.
+- 🔭 **Building:** local-first, skill-based AI agents and developer tooling that run on your own machine.
 - 🌱 **Exploring:** full-stack web with a touch of ML, and bringing the same ideas to desktop and mobile.
 - 🤝 **Open to collaborate on:** open-source AI tooling, automation, and anything that takes the boring, repetitive work off your hands.
-- 💬 **Ask me about:** building AI agents, local-first tools, and shipping across web, desktop & mobile — with a security-minded eye.
+- 💬 **Ask me about:** building AI agents, local-first tools, and shipping across web, desktop, and mobile with a security-minded eye.
 
 <div align="center"><img src="./assets/divider.svg" width="70%" height="4" alt="" /></div>
 
@@ -116,7 +116,7 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 
 ### 📫 Let's Connect!
 
-If you're building something interesting — or just want to trade ideas — feel free to reach out:
+If you're building something interesting, or just want to trade ideas, feel free to reach out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirac-duran)
 
