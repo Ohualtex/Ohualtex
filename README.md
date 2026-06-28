@@ -116,7 +116,7 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 
 ### 📫 Let's Connect!
 
-If you want to discuss cybersecurity, game development, or potential collaborations, feel free to reach out:
+If you're building something interesting — or just want to trade ideas — feel free to reach out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirac-duran)
 
