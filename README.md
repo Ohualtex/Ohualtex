@@ -16,11 +16,11 @@
 
 <br/>
 
-> *“I'd rather range across domains than lock myself into one — building with a security mindset along the way.”*
+> *“I'd rather range across domains than lock myself into one, building with a security mindset along the way.”*
 
-I'm a Software Engineering student at Fırat University and a **multidisciplinary developer** — I build across **AI**, **systems**, and the **web**, with roots in **game development**. I carry a security-minded perspective into everything I make, but I'd rather range across domains than box myself into a single one.
+I'm a Software Engineering student at Fırat University and a **multidisciplinary developer** who builds across **AI**, **systems**, and the **web**, with roots in **game development**. I carry a security-minded perspective into everything I make, but I'd rather range across domains than box myself into a single one.
 
----
+<div align="center"><img src="./assets/divider.svg" width="70%" height="4" alt="" /></div>
 
 ### 🧭 What I Work On
 
@@ -30,7 +30,7 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 - 🎮 **Game Development** — crafting worlds and tools with Unity, Blender & Krita.
 - 🛡️ **Security** — a lens I bring to everything above, not a silo I sit in.
 
----
+<div align="center"><img src="./assets/divider.svg" width="70%" height="4" alt="" /></div>
 
 ### 🚀 What I'm Currently Working On
 
@@ -39,7 +39,7 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 - 🤝 **Open to collaborate on:** open-source AI tooling, automation, and anything that takes the boring, repetitive work off your hands.
 - 💬 **Ask me about:** building AI agents, local-first tools, and shipping across web, desktop & mobile — with a security-minded eye.
 
----
+<div align="center"><img src="./assets/divider.svg" width="70%" height="4" alt="" /></div>
 
 ### 💻 Tech Stack & Tools
 
@@ -90,7 +90,7 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
----
+<div align="center"><img src="./assets/divider.svg" width="70%" height="4" alt="" /></div>
 
 ### 📈 GitHub Stats
 
@@ -112,11 +112,11 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="70%" height="4" alt="" /></div>
 
 ### 📫 Let's Connect!
 
-If you want to discuss cybersecurity, game development, or potential collaborations, feel free to reach out:
+If you're building something interesting, looking to collaborate — or just want to trade ideas, feel free to reach out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirac-duran)
 
