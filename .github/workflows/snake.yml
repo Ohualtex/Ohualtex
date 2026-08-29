@@ -17,13 +17,8 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#7aa2f7&color_dots=#c0caf5,#7dcfff,#7aa2f7,#bb9af7,#9d7cd8
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#7aa2f7&color_dots=#1a1b27,#3b4261,#7dcfff,#7aa2f7,#bb9af7
+      - name: Prepare dist directory
+        run: mkdir -p dist
 
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
@@ -32,6 +27,17 @@ jobs:
           options: theme=tokyo-night&hide_border=true&area=true
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#7aa2f7&color_dots=#c0caf5,#7dcfff,#7aa2f7,#bb9af7,#9d7cd8
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#7aa2f7&color_dots=#1a1b27,#3b4261,#7dcfff,#7aa2f7,#bb9af7
+
+      - name: Fix permissions
+        run: sudo chmod -R 777 dist
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
