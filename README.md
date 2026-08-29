@@ -106,10 +106,6 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 &nbsp;
 <img height="180" src="https://streak-stats.demolab.com/?user=Ohualtex&hide_border=true&theme=tokyonight" alt="streak" />
 
-<br/>
-
-<img width="95%" src="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/activity-graph.svg" alt="activity graph" />
-
 </div>
 
 <div align="center"><img src="./assets/divider.svg" width="70%" height="4" alt="" /></div>

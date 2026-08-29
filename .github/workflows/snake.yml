@@ -1,4 +1,4 @@
-name: Generate Profile Assets
+name: Generate Contribution Snake
 
 on:
   # Run every 4 hours
@@ -17,17 +17,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Prepare dist directory
-        run: mkdir -p dist
-
-      - name: Generate activity graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: ${{ github.repository_owner }}
-          options: theme=tokyo-night&hide_border=true&area=true
-          output_path: dist/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
@@ -36,9 +25,6 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=#7aa2f7&color_dots=#c0caf5,#7dcfff,#7aa2f7,#bb9af7,#9d7cd8
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#7aa2f7&color_dots=#1a1b27,#3b4261,#7dcfff,#7aa2f7,#bb9af7
 
-      - name: Fix permissions
-        run: sudo chmod -R 777 dist
-
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -46,4 +32,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
