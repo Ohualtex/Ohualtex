@@ -108,7 +108,7 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ohualtex&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+<img width="95%" src="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/activity-graph.svg" alt="activity graph" />
 
 </div>
 
