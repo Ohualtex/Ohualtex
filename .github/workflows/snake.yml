@@ -1,9 +1,9 @@
 name: Generate Contribution Snake
 
 on:
-  # Run every 4 hours
+  # Run once daily at 00:00 UTC
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "0 0 * * *"
   # Allow manual runs from the Actions tab
   workflow_dispatch:
   # Run on every push to main
