@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Profile Assets
 
 on:
   # Run once daily at 00:00 UTC
@@ -17,6 +17,23 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Prepare dist directory
+        run: mkdir -p dist
+
+      - name: Fetch stats and top languages cards
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight" -o dist/stats.svg
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=tokyonight" -o dist/top-langs.svg
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true
+          path: dist/streak-stats.svg
+
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
