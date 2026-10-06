@@ -96,12 +96,14 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 
 <div align="center">
 
-<img height="180" src="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/stats.svg" alt="github stats" />
+<img src="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/repos-per-language.svg" alt="most used languages" />
 &nbsp;
-<img height="180" src="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/top-langs.svg" alt="most used languages" />
+<img src="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/most-commit-language.svg" alt="most commit language" />
 
 <br/>
 
+<img height="180" src="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/stats.svg" alt="github stats" />
+&nbsp;
 <img height="180" src="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/streak-stats.svg" alt="streak" />
 
 </div>
