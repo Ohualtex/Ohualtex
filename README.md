@@ -117,6 +117,7 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 If you're building something interesting — looking to collaborate or just want to trade ideas, feel free to reach out:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mirac-duran)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/ohualtex)
 
 <div align="center">
 
