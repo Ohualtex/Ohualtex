@@ -20,26 +20,26 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 
 <div align="center"><img src="./assets/divider.svg" width="100%" height="12" alt="" /></div>
 
-### 🧭 What I Work On
+### <img src="./assets/icons/domains.svg" width="16" height="16" alt="" /> What I Work On
 
-- 🤖 **AI** — building and experimenting with LLMs and AI-assisted tooling.
-- 🖥️ **Systems** — Linux environments, automation, and server-side work.
-- 🌐 **Web** — building on the web, front to back.
-- 🎮 **Game Development** — crafting worlds and tools with Unity, Blender & Krita.
-- 🛡️ **Security** — a lens I bring to everything above, not a silo I sit in.
-
-<div align="center"><img src="./assets/divider.svg" width="100%" height="12" alt="" /></div>
-
-### 🚀 What I'm Currently Working On
-
-- 🔭 **Building:** local-first AI agents and developer tooling — small, skill-based assistants that run on your own machine.
-- 🌱 **Exploring:** full-stack web with a touch of ML, and bringing the same ideas to desktop and mobile.
-- 🤝 **Open to collaborate on:** open-source AI tooling, automation, and anything that takes the boring, repetitive work off your hands.
-- 💬 **Ask me about:** building AI agents, local-first tools, and shipping across web, desktop & mobile — with a security-minded eye.
+- **AI** — building and experimenting with LLMs and AI-assisted tooling.
+- **Systems** — Linux environments, automation, and server-side work.
+- **Web** — building on the web, front to back.
+- **Game Development** — crafting worlds and tools with Unity, Blender & Krita.
+- **Security** — a lens I bring to everything above, not a silo I sit in.
 
 <div align="center"><img src="./assets/divider.svg" width="100%" height="12" alt="" /></div>
 
-### 💻 Tech Stack & Tools
+### <img src="./assets/icons/terminal.svg" width="16" height="16" alt="" /> What I'm Currently Working On
+
+- **Building:** local-first AI agents and developer tooling — small, skill-based assistants that run on your own machine.
+- **Exploring:** full-stack web with a touch of ML, and bringing the same ideas to desktop and mobile.
+- **Open to collaborate on:** open-source AI tooling, automation, and anything that takes the boring, repetitive work off your hands.
+- **Ask me about:** building AI agents, local-first tools, and shipping across web, desktop & mobile — with a security-minded eye.
+
+<div align="center"><img src="./assets/divider.svg" width="100%" height="12" alt="" /></div>
+
+### <img src="./assets/icons/stack.svg" width="16" height="16" alt="" /> Tech Stack & Tools
 
 **Languages**
 
@@ -93,7 +93,7 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 
 <div align="center"><img src="./assets/divider.svg" width="100%" height="12" alt="" /></div>
 
-### 📈 GitHub Stats
+### <img src="./assets/icons/stats.svg" width="16" height="16" alt="" /> GitHub Stats
 
 <div align="center">
 
@@ -111,7 +111,7 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 
 <div align="center"><img src="./assets/divider.svg" width="100%" height="12" alt="" /></div>
 
-### 📫 Let's Connect!
+### <img src="./assets/icons/connect.svg" width="16" height="16" alt="" /> Let's Connect!
 
 If you're building something interesting — looking to collaborate or just want to trade ideas, feel free to reach out:
 
