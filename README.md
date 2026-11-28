@@ -25,7 +25,7 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 - **AI** — building and experimenting with LLMs and AI-assisted tooling.
 - **Systems** — Linux environments, automation, and server-side work.
 - **Web** — building on the web, front to back.
-- **Game Development** — crafting worlds and tools with Unity, Blender & Krita.
+- **Game Development** — crafting worlds and tools with Unity, Blender, Krita & Aseprite.
 - **Security** — a lens I bring to everything above, not a silo I sit in.
 
 <div align="center"><img src="./assets/divider.svg" width="100%" height="12" alt="" /></div>
@@ -76,6 +76,7 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
 
 **Tools & Workflow**
 
