@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<img width="100%" src="./assets/header.svg" alt="hi, I'm Ohualtex"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ohualtex/Ohualtex/output/github-contribution-grid-snake.svg" />
@@ -14,13 +12,13 @@
 
 </div>
 
-<br/>
+## Hey, I'm Ohualtex
 
 > *“I'd rather range across domains than lock myself into one, building with a security mindset along the way.”*
 
 I'm a Software Engineering student at Fırat University and a **multidisciplinary developer** who builds across **AI**, **systems**, and the **web**, with roots in **game development**. I carry a security-minded perspective into everything I make, but I'd rather range across domains than box myself into a single one.
 
-<div align="center"><img src="./assets/divider.svg" width="70%" height="4" alt="" /></div>
+<div align="center"><img src="./assets/divider.svg" width="100%" height="12" alt="" /></div>
 
 ### 🧭 What I Work On
 
@@ -30,7 +28,7 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 - 🎮 **Game Development** — crafting worlds and tools with Unity, Blender & Krita.
 - 🛡️ **Security** — a lens I bring to everything above, not a silo I sit in.
 
-<div align="center"><img src="./assets/divider.svg" width="70%" height="4" alt="" /></div>
+<div align="center"><img src="./assets/divider.svg" width="100%" height="12" alt="" /></div>
 
 ### 🚀 What I'm Currently Working On
 
@@ -39,7 +37,7 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 - 🤝 **Open to collaborate on:** open-source AI tooling, automation, and anything that takes the boring, repetitive work off your hands.
 - 💬 **Ask me about:** building AI agents, local-first tools, and shipping across web, desktop & mobile — with a security-minded eye.
 
-<div align="center"><img src="./assets/divider.svg" width="70%" height="4" alt="" /></div>
+<div align="center"><img src="./assets/divider.svg" width="100%" height="12" alt="" /></div>
 
 ### 💻 Tech Stack & Tools
 
@@ -92,7 +90,7 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-<div align="center"><img src="./assets/divider.svg" width="70%" height="4" alt="" /></div>
+<div align="center"><img src="./assets/divider.svg" width="100%" height="12" alt="" /></div>
 
 ### 📈 GitHub Stats
 
@@ -110,7 +108,7 @@ I'm a Software Engineering student at Fırat University and a **multidisciplinar
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="70%" height="4" alt="" /></div>
+<div align="center"><img src="./assets/divider.svg" width="100%" height="12" alt="" /></div>
 
 ### 📫 Let's Connect!
 
@@ -118,9 +116,3 @@ If you're building something interesting — looking to collaborate or just want
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B)](https://linkedin.com/in/mirac-duran)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/ohualtex)
-
-<div align="center">
-
-<img width="100%" src="./assets/footer.svg" alt="footer"/>
-
-</div>
