@@ -12,7 +12,7 @@
 
 </div>
 
-## Hey, I'm Ohualtex
+## <img src="./assets/icons/star.svg" width="20" height="20" alt="" /> Hey, I'm Ohualtex
 
 > *“I'd rather range across domains than lock myself into one, building with a security mindset along the way.”*
 
